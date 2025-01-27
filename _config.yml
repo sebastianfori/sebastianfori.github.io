@@ -20,14 +20,6 @@ about_content: |
   I strive to make meaningful contributions by leveraging my skills in communication, teamwork, and technical expertise 
   to solve complex challenges and drive innovation. I am currently pursuing a degree in Computer Engineering at Universidad Católica del Uruguay and have experience in cybersecurity and full-stack development.
 
-content:
-  - title: Projects
-    layout: list
-    content:
-        quote: >
-          Automated authentication and consumption of multiple REST APIs with Awilix and Axios
-        description: | 
-          Created a program to manage multiple REST APIs efficiently with strong authentication and error handling.
 
   - title: Experience
     layout: list
