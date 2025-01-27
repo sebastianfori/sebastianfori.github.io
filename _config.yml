@@ -30,15 +30,6 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: left
-        border: weak
-        title: REST API Automation
-        link: https://github.com/your-profile/rest-api-automation
-        link_text: View Project
-        additional_links:
-          - title: GitHub
-            icon: fab fa-github
-            url: https://github.com/your-profile/rest-api-automation
         quote: >
           Automated authentication and consumption of multiple REST APIs with Awilix and Axios
         description: | 
@@ -47,7 +38,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: BASF Services Americas
         sub_title: Automation Developer
         caption: 2022 - Present
@@ -55,9 +46,11 @@ content:
         quote: >
           Automation and application development in O2C Technology Experts
         description: | 
-          Designed and implemented automation tools for business processes, ensuring scalability and maintenance in complex systems.
+          <div class="text-center">
+            Designed and implemented automation tools for business processes, ensuring scalability and maintenance in complex systems.
+          </div>
 
-      - layout: right
+      - layout: left
         title: CIEMSA
         sub_title: Full Stack Developer
         caption: April 2023 - July 2023
@@ -65,24 +58,31 @@ content:
         quote: >
           Full stack development for municipal radar applications.
         description: | 
-          Developed and maintained web and desktop applications for the Municipality of Montevideo, ensuring efficient and reliable performance.
+          <div class="text-center">
+            Developed and maintained web and desktop applications for the Municipality of Montevideo, ensuring efficient and reliable performance.
+          </div>
 
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Universidad Católica del Uruguay
         sub_title: Bachelor's in Computer Engineering
         caption: 2020 - Present
         description: | 
-          Pursuing a Bachelor's degree in Computer Engineering, with a focus on software development, systems, and cybersecurity.
-
-      - layout: top-right
+          <div class="text-center">
+            Pursuing a Bachelor's in the fourth year of the degree in Computer Engineering, with a focus on software development, systems, and cybersecurity.
+          </div>
+          
+      - layout: left
         title: BIOS Institute
         sub_title: Cybersecurity Technician
         caption: 2021 - 2022
         description: | 
-          Completed a Cybersecurity Technician program, gaining practical knowledge in penetration testing and system security.
+          <div class="text-center">
+              Completed a Cybersecurity Technician program, gaining practical knowledge in penetration testing and system security.
+          </div>
+         
 
   - title: Core Skills
     layout: list
@@ -131,3 +131,4 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
 ]
+
