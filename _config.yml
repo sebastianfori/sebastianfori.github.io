@@ -36,18 +36,20 @@ content:
         title: BASF Services Americas
         sub_title: Automation Developer
         caption: 2022 - Present
-        link: https://www.basf.com
         quote: >
           Automation and application development in O2C Technology Experts
         description: | 
-            Designed and implemented automation tools for business processes, ensuring scalability and maintenance in complex systems.
+          - Automation and application development in O2C Technology Experts.
+          - Created a program using Awilix and Axios to authenticate and consume multiple REST APIs.
+          - Developed applications following SOLID principles and leveraging design patterns to ensure scalability and maintainability.
+          - Designed and implemented database solutions for process automation projects.
+          - Collaborated with cross-functional teams to identify and solve complex technical challenges.
 
 
       - layout: left
         title: CIEMSA
         sub_title: Full Stack Developer
         caption: April 2023 - July 2023
-        link: https://www.ciemsa.com
         quote: >
           Full stack development for municipal radar applications.
         description: | 
