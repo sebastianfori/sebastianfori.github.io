@@ -13,14 +13,8 @@ phone: +598 91286606
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Additional icon links
-additional_links:
-  - title: GitHub
-    icon: fab fa-github
-    url: https://github.com/your-profile
-
 # About Section
-about_profile_image: images/profile.jpg
+about_profile_image: Sebastian Forische.jpg
 about_content: | 
   I am an enthusiastic and driven computer science professional with a deep passion for technology. 
   I strive to make meaningful contributions by leveraging my skills in communication, teamwork, and technical expertise 
@@ -46,9 +40,8 @@ content:
         quote: >
           Automation and application development in O2C Technology Experts
         description: | 
-          <div class="text-center">
             Designed and implemented automation tools for business processes, ensuring scalability and maintenance in complex systems.
-          </div>
+
 
       - layout: left
         title: CIEMSA
@@ -58,9 +51,8 @@ content:
         quote: >
           Full stack development for municipal radar applications.
         description: | 
-          <div class="text-center">
             Developed and maintained web and desktop applications for the Municipality of Montevideo, ensuring efficient and reliable performance.
-          </div>
+    
 
   - title: Education
     layout: list
@@ -70,18 +62,14 @@ content:
         sub_title: Bachelor's in Computer Engineering
         caption: 2020 - Present
         description: | 
-          <div class="text-center">
             Pursuing a Bachelor's in the fourth year of the degree in Computer Engineering, with a focus on software development, systems, and cybersecurity.
-          </div>
-          
+
       - layout: left
         title: BIOS Institute
         sub_title: Cybersecurity Technician
         caption: 2021 - 2022
-        description: | 
-          <div class="text-center">
+        description: |
               Completed a Cybersecurity Technician program, gaining practical knowledge in penetration testing and system security.
-          </div>
          
 
   - title: Core Skills
